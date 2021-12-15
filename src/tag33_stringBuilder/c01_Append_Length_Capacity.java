@@ -1,4 +1,4 @@
-package tag33_stringBuilder;
+package Tag33_stringBuilder;
 
 public class c01_Append_Length_Capacity {
 

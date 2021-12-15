@@ -1,4 +1,4 @@
-package tag35_Encapsulation_Inheritance;
+package Tag35_Encapsulation_Inheritance;
 
 public class Isci extends Muhasebe {
 	protected String statu;

@@ -1,6 +1,10 @@
 package Projects_02_kenanHoca;
 
+import java.util.Arrays;
+import java.util.Iterator;
 import java.util.Scanner;
+
+import java.lang.*;
 
 public class arrayContains {
 
@@ -32,12 +36,14 @@ public class arrayContains {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
+        System.out.println("Bir kelime girin:");
         String myStr = scan.nextLine();
-        String[] arr = myStr.split(" ");
+        String[] arr = myStr.split("");
+       System.out.println(Arrays.toString(arr));
         int[] myArr = new int[5];
         for(int i = 0 ; i< arr.length ; i++){
-            int num = Integer.parseInt(arr[i]);
-            myArr[i] = num;
+            myArr[i] = Integer.parseInt(arr[i]);
+            
         }
 
         int[] UseThisArray1 = new int[3];
@@ -46,6 +52,7 @@ public class arrayContains {
         for(int i = 0 ; i <3 ; i++){
             UseThisArray1[i] = myArr[i];
         }
+       
 
         for(int i = 3 ; i <5 ; i++){
             UseThisArray2[i-3] = myArr[i];
@@ -56,25 +63,37 @@ public class arrayContains {
 
 //        Koda burdan başla
 //        UseThisArray1 ve UseThisArray2 array isimlerini kullan
-
+/*
         boolean b1 = false;
 
         for(int i = 0 ; i<UseThisArray2.length ; i++) {
             for (int j = 0; j < UseThisArray1.length; j++) {
-
-
-                if (UseThisArray1[j] == UseThisArray2[i]) {
-                    b1 = true;
-                    break;
-
-                } else if (UseThisArray1[j] != UseThisArray2[i] ) {
+            	if (UseThisArray2[i] == UseThisArray1[i+1]) {
+                   if (UseThisArray2[i+1] == UseThisArray1[i+2]) {
+                	   b1 = true;
+                       break;
+				}
+                 } else  {
                     b1 = false;
-
+                   
                 }
             }
         }
 
         System.out.println(b1);
-
+*/
+        boolean b=true;
+        for (int i = 0; i < UseThisArray1.length; i++) {
+			if (UseThisArray1[1]==UseThisArray2[0]) {
+				if(UseThisArray1[2]==UseThisArray2[1]){
+					System.out.println(b);
+				}
+			}else {
+				System.out.println(!b);
+			}
+		}scan.close();
+        
+        
+        
     }
 }

@@ -1,4 +1,4 @@
-package tag31;
+package Tag31;
 
 public class Varargs {
 

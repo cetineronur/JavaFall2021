@@ -1,6 +1,8 @@
 package Projects_02_kenanHoca;
 
 import java.util.Arrays;
+import java.lang.*;
+
 import java.util.Scanner;
 
 public class changeArray {
@@ -36,6 +38,7 @@ public class changeArray {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
+        
         String myStr = scan.nextLine();
         String[] UseThisArray = myStr.split(" ");
 

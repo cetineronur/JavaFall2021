@@ -1,6 +1,6 @@
-package tag34accessDeneme;
+package Tag34accessDeneme;
 
-import tag34accessModieferEncapsulatio.C01;
+import Tag34accessModieferEncapsulatio.C01;
 
 public class C02_BaskaPackageChildClass extends C01 {
 
