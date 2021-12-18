@@ -1,4 +1,4 @@
-package Tag16;
+package tag16;
 import java.util.Scanner;
 public class stringManiplaion {
 	public static void main(String[] args) {

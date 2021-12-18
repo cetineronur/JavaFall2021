@@ -1,4 +1,4 @@
-package Tag33_stringBuilder;
+package tag33_stringBuilder;
 
 public class c02_StringBuilder {
 

@@ -1,4 +1,4 @@
-package Tag20;
+package tag20;
 
 public class doWhileLoop {
 

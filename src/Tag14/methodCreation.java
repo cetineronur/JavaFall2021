@@ -1,4 +1,4 @@
-package Tag14;
+package tag14;
 public class methodCreation {
 	public static void main(String[] args) {
 		/*verilen iki sayinin toplamini ve carpimini yapip yazdiran

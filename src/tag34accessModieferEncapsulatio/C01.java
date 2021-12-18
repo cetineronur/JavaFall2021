@@ -1,4 +1,4 @@
-package Tag34accessModieferEncapsulatio;
+package tag34accessModieferEncapsulatio;
 
 public class C01 {
 	private int sayiPrivate = 10;

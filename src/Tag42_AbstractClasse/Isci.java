@@ -1,5 +1,5 @@
 
-package Tag42_AbstractClasse;
+package tag42_AbstractClasse;
 
 public class Isci extends Muhasebe {
 	public void mesai() {

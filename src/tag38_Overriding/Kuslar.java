@@ -1,4 +1,4 @@
-package Tag38_Overriding;
+package tag38_Overriding;
 
 public class Kuslar extends Animals {
 

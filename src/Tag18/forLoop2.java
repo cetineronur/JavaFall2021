@@ -1,4 +1,4 @@
-package Tag18;
+package tag18;
 
 public class forLoop2 {
 

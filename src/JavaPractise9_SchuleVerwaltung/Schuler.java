@@ -1,4 +1,4 @@
-package JavaPractise9_SchuleVerwaltung;
+package javaPractise9_SchuleVerwaltung;
 
 public class Schuler extends Islemler {
 	

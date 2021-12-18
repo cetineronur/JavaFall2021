@@ -1,4 +1,4 @@
-package Tag15;
+package tag15;
 import java.util.Scanner;
 public class methodCreation3 {
 	public static void main(String[] args) {

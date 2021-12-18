@@ -1,4 +1,4 @@
-package Tag11;
+package tag11;
 import java.util.Scanner;
 public class sayininOkunusu {
 	public static void main(String[] args) {

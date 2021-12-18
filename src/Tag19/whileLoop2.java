@@ -1,4 +1,4 @@
-package Tag19;
+package tag19;
 import java.util.Scanner;
 public class whileLoop2 {
 

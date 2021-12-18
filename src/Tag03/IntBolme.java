@@ -1,4 +1,4 @@
-package Tag03;
+package tag03;
 public class IntBolme {
 	public static void main(String[] args) {
 		int a =256789, b=1567;

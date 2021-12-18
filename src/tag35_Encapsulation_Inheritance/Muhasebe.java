@@ -1,4 +1,4 @@
-package Tag35_Encapsulation_Inheritance;
+package tag35_Encapsulation_Inheritance;
 
 public class Muhasebe extends Personel {
 

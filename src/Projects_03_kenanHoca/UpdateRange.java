@@ -1,4 +1,4 @@
-package Projects_03_kenanHoca;
+package projects_03_kenanHoca;
 
 import java.util.Arrays;
 

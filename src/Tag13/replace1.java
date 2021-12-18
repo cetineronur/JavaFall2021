@@ -1,4 +1,4 @@
-package Tag13;
+package tag13;
 public class replace1 {
 	public static void main(String[] args) {
 		

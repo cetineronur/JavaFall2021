@@ -1,4 +1,4 @@
-package Tag17;
+package tag17;
 public class forLoop11 {
 	public static void main(String[] args) {
 		// 1

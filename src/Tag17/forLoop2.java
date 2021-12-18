@@ -1,4 +1,4 @@
-package Tag17;
+package tag17;
 public class forLoop2 {
 	public static void main(String[] args) {
 		//100’den baslayarak 50’ye kadar olan sayilari 

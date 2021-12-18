@@ -1,4 +1,4 @@
-package Tag11;
+package tag11;
 public class stringManipulationEqulas {
 	public static void main(String[] args) {
 		String isim1 ="Ali Can";

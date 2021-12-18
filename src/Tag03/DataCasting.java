@@ -1,4 +1,4 @@
-package Tag03;
+package tag03;
 public class DataCasting {
 	public static void main(String[] args) {
 		byte sayi1=44;

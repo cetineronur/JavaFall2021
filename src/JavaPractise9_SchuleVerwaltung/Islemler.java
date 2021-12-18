@@ -1,4 +1,4 @@
-package JavaPractise9_SchuleVerwaltung;
+package javaPractise9_SchuleVerwaltung;
 
 import java.util.ArrayList;
 import java.util.List;

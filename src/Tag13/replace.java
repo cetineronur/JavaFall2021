@@ -1,4 +1,4 @@
-package Tag13;
+package tag13;
 public class replace {
 	public static void main(String[] args) {
 		// String olarak verilen 10.000 sayisinin binden buyuk olup olmadigini yazdirin

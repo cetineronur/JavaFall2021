@@ -1,4 +1,4 @@
-package Tag03;
+package tag03;
 public class IncrementDecrement {
 	public static void main(String[] args) {
 		int sayi1=10;

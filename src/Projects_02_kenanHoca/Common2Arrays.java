@@ -1,4 +1,4 @@
-package Projects_02_kenanHoca;
+package projects_02_kenanHoca;
 
 import java.util.Scanner;
 

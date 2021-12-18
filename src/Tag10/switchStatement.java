@@ -1,4 +1,4 @@
-package Tag10;
+package tag10;
 public class switchStatement {
 	public static void main(String[] args) {
 		//gun numarasina gore gun isimlerini yazdirin.

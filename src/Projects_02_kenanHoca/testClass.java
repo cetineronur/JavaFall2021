@@ -1,4 +1,4 @@
-package Projects_02_kenanHoca;
+package projects_02_kenanHoca;
 
 import org.junit.After;
 import org.junit.Assert;

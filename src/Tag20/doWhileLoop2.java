@@ -1,4 +1,4 @@
-package Tag20;
+package tag20;
 import java.util.Scanner;
 public class doWhileLoop2 {
     public static void main(String[] args) {

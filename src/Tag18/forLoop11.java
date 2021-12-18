@@ -1,4 +1,4 @@
-package Tag18;
+package tag18;
 import java.util.Scanner;
 public class forLoop11 {
 	public static void main(String[] args) {

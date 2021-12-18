@@ -1,6 +1,6 @@
-package Tag36_inharitance;
+package tag36_inharitance;
 
-import Tag35_Encapsulation_Inheritance.Muhasebe;
+import tag35_Encapsulation_Inheritance.Muhasebe;
 
 public class Memur extends Muhasebe {
 

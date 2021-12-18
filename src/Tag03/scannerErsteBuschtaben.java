@@ -1,4 +1,4 @@
-package Tag03;
+package tag03;
 import java.util.Scanner;
 public class scannerErsteBuschtaben {
 

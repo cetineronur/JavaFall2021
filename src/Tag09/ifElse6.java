@@ -1,4 +1,4 @@
-package Tag09;
+package tag09;
 import java.util.Scanner;
 public class ifElse6 {
 	public static void main(String[] args) {

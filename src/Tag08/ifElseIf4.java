@@ -1,4 +1,4 @@
-package Tag08;
+package tag08;
 import java.util.Scanner;
 public class ifElseIf4 {
 	public static void main(String[] args) {

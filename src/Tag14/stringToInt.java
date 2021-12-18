@@ -1,4 +1,4 @@
-package Tag14;
+package tag14;
 public class stringToInt {
 	public static void main(String[] args) {
 		/*String seklinde verlen asagidaki fiyatlarin toplamini bulunuz

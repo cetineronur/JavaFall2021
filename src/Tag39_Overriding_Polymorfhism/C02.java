@@ -1,4 +1,4 @@
-package Tag39_Overriding_Polymorfhism;
+package tag39_Overriding_Polymorfhism;
 
 public class C02 extends C01 {
 

@@ -1,10 +1,10 @@
-package Projects_03_kenanHoca;
+package projects_03_kenanHoca;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import WichtigeFragen.CamelCase;
-import WichtigeFragen.getPopulation;
+import wichtigeFragen.CamelCase;
+import wichtigeFragen.getPopulation;
 
 public class test {
 

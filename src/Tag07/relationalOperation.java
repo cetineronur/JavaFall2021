@@ -1,4 +1,4 @@
-package Tag07;
+package tag07;
 public class relationalOperation {
 	public static void main(String[] args) {
 		boolean sayi=(5+2==7)&&(4+3!=5);

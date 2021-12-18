@@ -1,4 +1,4 @@
-package Tag17;
+package tag17;
 
 import java.util.Scanner;
 

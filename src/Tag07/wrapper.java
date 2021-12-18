@@ -1,4 +1,4 @@
-package Tag07;
+package tag07;
 
 public class wrapper {
 public static void main(String[] args) {

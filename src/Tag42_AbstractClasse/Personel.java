@@ -1,4 +1,4 @@
-package Tag42_AbstractClasse;
+package tag42_AbstractClasse;
 
 public class Personel {
 

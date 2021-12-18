@@ -1,4 +1,4 @@
-package Tag03;
+package tag03;
 public class DoubleToInt {
 	public static void main(String[] args) {
 		double a=255.36;

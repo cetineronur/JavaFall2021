@@ -1,6 +1,6 @@
 package tag26;
 
-import WichtigeFragen.ulkeNufus;
+import wichtigeFragen.ulkeNufus;
 
 public class x {
 	

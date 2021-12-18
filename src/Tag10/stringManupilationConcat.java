@@ -1,4 +1,4 @@
-package Tag10;
+package tag10;
 
 import java.util.Locale;
 

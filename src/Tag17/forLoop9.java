@@ -1,4 +1,4 @@
-package Tag17;
+package tag17;
 import java.util.Scanner;
 public class forLoop9 {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Tag07;
+package tag07;
 import java.util.Scanner;
 public class basitIf {
 	public static void main(String[] args) {
