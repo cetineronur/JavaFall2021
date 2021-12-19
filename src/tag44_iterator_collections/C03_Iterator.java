@@ -28,9 +28,7 @@ public class C03_Iterator {
 		
 		System.out.println(list);
 		
-		ite.remove();
-		System.out.println(list);
-
+		
 	}
 
 }

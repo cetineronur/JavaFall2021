@@ -1,6 +1,6 @@
-package tag34accessDeneme;
+package tag34_AccessDeneme;
 
-import tag34accessModieferEncapsulatio.C05;
+import tag34_AccessModieferEncapsulation.C05;
 
 public class C03_GetterBaskaPackage {
 
