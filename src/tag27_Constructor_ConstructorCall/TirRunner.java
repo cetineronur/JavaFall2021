@@ -9,7 +9,7 @@ public class TirRunner {
 		
 		System.out.println(tir1.km+" "+tir1.model+" "+tir1.renk+" "+tir1.yil+" "+tir1.satilikMi);
 		
-	// uc ozelligi degistiren bir constructor olusturalim
+	// uc ozelligi deistiren bir constructor olusturalim
 	// int km, String model, String renk
 		
 		Tir tir2 = new Tir(12000, "kar", "Kirmizi");

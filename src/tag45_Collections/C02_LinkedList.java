@@ -21,7 +21,7 @@ public class C02_LinkedList {
 		ll2.add(7);
 		ll2.clear();// DAta turu queue secilince queue interface'inden gelen methodlari kullanabildik.
 		
-		Deque
+	
 		
 	}
 
