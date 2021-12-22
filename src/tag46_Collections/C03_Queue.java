@@ -7,7 +7,12 @@ public class C03_Queue {
 
 	public static void main(String[] args) {
 
-
+		
+		StringBuilder sb1 = new StringBuilder("OCAJP8");
+		StringBuilder sb2 = sb1 ;
+		sb1.append("J");
+		System.out.println(sb1 + " "+ sb2+ " " + (sb1==sb2));
+		
 		Queue<String> kuyruk = new LinkedList<>();
 		kuyruk.add("Lutfullah");
 		kuyruk.add("Mustafa");
